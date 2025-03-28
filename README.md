@@ -15,3 +15,12 @@ The final outputs and calculations were wrong and did not correspond to observat
 
 how are we to begin to imagine the strange entropy of the vacuum, entropic gravity, the emergence of particles and fields from these strange fluctuations. The idea of storing information somewhere in hyperspace according to holographic principles. We will have to gradually overcome these paradigm shifts and try to find suitable analogies to explain to the general public.
 
+In the 5D/6D geometry of space information is essentially stored analogously according to the holographic principle. Through the combination of quantum foam (in other words, vacuum fluctuations) and information at the boundary of the phase transition between 5D and 4D, the birth of matter occurs.  
+
+The Calabi-Yau metric defines the shape of the "extra dimensions," which mathematically determines the Yukawa couplings – crucial for particle masses. In very simplified terms, this means that various subatomic particles of matter emerge from:  
+- Holographic information  
+- The peculiar geometry of 6D/5D space  
+- Entropic foam  
+
+The byproducts of these reactions during the phase transition and matter formation are different types of radiation and force fields in our 4D (or effectively 3D) space.  
+
